@@ -1,4 +1,4 @@
-### Zu
+### Zu (przyimek)
 Zu - do
 #### omówienie
 * https://gerlic.pl/przyimek-zu-co-oznacza-i-kiedy-uzywac/
