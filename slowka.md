@@ -1,3 +1,8 @@
+### können (czasownik modalny)
+können - móc, umieć, potrafić
+#### odmiana
+#### przykłady
+
 ### Zu (przyimek)
 Zu - do
 #### omówienie
