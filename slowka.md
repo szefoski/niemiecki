@@ -3,6 +3,12 @@ können - móc, umieć, potrafić
 #### odmiana
 #### przykłady
 
+### speilen (czasownik)
+speilen - grać bawić się wystąpić udać odgrywać odegrać pobawić się występować udawać pograć zagrać wcielić się wcielać się igrać mienić się pogrywać grać w gry
+
+### bisschen, bißchen (zaimek)
+bisschen, bißchen - trochę, odrobinę
+
 ### Zu (przyimek)
 Zu - do
 #### omówienie
@@ -13,3 +19,7 @@ Do mojej rodziny należą cztery osoby.
 
 ```Ich komme zu Hause.```
 Ide do domu.
+
+### Dort (przysłówek)
+Dort - tam
+#### przykłady
